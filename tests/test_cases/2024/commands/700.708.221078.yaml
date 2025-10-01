@@ -15,15 +15,15 @@ test_cases:
 - expected_values:
     TOYOTA_IDLE_SAC_CYL_1: 0
     TOYOTA_IDLE_SAC_CYL_2: 2
-    TOYOTA_IDLE_SAC_CYL_3: 0
-    TOYOTA_IDLE_SAC_CYL_4: 0
-  response: '7080762107800200000'
-- expected_values:
-    TOYOTA_IDLE_SAC_CYL_1: 0
-    TOYOTA_IDLE_SAC_CYL_2: 2
     TOYOTA_IDLE_SAC_CYL_3: 3
     TOYOTA_IDLE_SAC_CYL_4: 1
   response: '7080762107800203010'
+- expected_values:
+    TOYOTA_IDLE_SAC_CYL_1: 0
+    TOYOTA_IDLE_SAC_CYL_2: 3
+    TOYOTA_IDLE_SAC_CYL_3: 0
+    TOYOTA_IDLE_SAC_CYL_4: 0
+  response: '7080762107800300000'
 - expected_values:
     TOYOTA_IDLE_SAC_CYL_1: 1
     TOYOTA_IDLE_SAC_CYL_2: 1
