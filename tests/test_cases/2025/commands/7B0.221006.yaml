@@ -1,8 +1,8 @@
 command_id: 7B0.221006
 test_cases:
 - expected_values:
-    TOYOTA_MASTER_CYL_TEMP: 14
+    GRANDHIGHLANDER_MASTER_CYL_TEMP: 14.0
   response: 7B8056210065E00
 - expected_values:
-    TOYOTA_MASTER_CYL_TEMP: 48
+    GRANDHIGHLANDER_MASTER_CYL_TEMP: 48.0
   response: 7B8056210068000

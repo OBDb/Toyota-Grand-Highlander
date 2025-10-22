@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F05
 test_cases:
 - expected_values:
-    TOYOTA_COOL_T: 50
+    GRANDHIGHLANDER_COOL_T: 50.0
   response: 7DA04621F055A
 - expected_values:
-    TOYOTA_COOL_T: 215
+    GRANDHIGHLANDER_COOL_T: 215.0
   response: 7DA04621F05FF
