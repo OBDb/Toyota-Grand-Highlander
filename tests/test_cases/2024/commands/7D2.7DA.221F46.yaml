@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F46
 test_cases:
 - expected_values:
-    TOYOTA_AAT: 20
+    GRANDHIGHLANDER_AAT: 20.0
   response: 7DA04621F463C
 - expected_values:
-    TOYOTA_AAT: 41
+    GRANDHIGHLANDER_AAT: 41.0
   response: 7DA04621F4651

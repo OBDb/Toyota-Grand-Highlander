@@ -1,14 +1,14 @@
 command_id: 7C0.221022|fc=1
 test_cases:
 - expected_values:
-    TOYOTA_FLV: 3.36
+    GRANDHIGHLANDER_FLV: 3.36
   response: 7C8056210220150
 - expected_values:
-    TOYOTA_FLV: 15.36
+    GRANDHIGHLANDER_FLV: 15.36
   response: 7C8056210220600
 - expected_values:
-    TOYOTA_FLV: 20.47
+    GRANDHIGHLANDER_FLV: 20.47
   response: 7C80562102207FF
 - expected_values:
-    TOYOTA_FLV: 64
+    GRANDHIGHLANDER_FLV: 64.0
   response: 7C8056210221900
