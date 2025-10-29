@@ -1,14 +1,14 @@
 command_id: 7D2.2215EE
 test_cases:
 - expected_values:
-    TOYOTA_12V_V: 11.96274
+    GRANDHIGHLANDER_12V_V: 11.96274
   response: 7DA056215EE2612
 - expected_values:
-    TOYOTA_12V_V: 12.5917
+    GRANDHIGHLANDER_12V_V: 12.5917
   response: 7DA056215EE28FE
 - expected_values:
-    TOYOTA_12V_V: 12.90618
+    GRANDHIGHLANDER_12V_V: 12.90618
   response: 7DA056215EE2900
 - expected_values:
-    TOYOTA_12V_V: 14.1641
+    GRANDHIGHLANDER_12V_V: 14.1641
   response: 7DA056215EE2D04
