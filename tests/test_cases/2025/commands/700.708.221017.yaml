@@ -1,11 +1,11 @@
 command_id: 700.708.221017
 test_cases:
 - expected_values:
-    TOYOTA_INJ_VOL: 0
+    GRANDHIGHLANDER_INJ_VOL: 0
   response: '708056210170000'
 - expected_values:
-    TOYOTA_INJ_VOL: 0.79969
+    GRANDHIGHLANDER_INJ_VOL: 0.79969
   response: 7080562101709FF
 - expected_values:
-    TOYOTA_INJ_VOL: 9.6525
+    GRANDHIGHLANDER_INJ_VOL: 9.6525
   response: 7080562101778A8
