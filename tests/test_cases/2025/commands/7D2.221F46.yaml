@@ -4,5 +4,5 @@ test_cases:
     TOYOTA_AAT: 17
   response: 7DA04621F4639
 - expected_values:
-    TOYOTA_AAT: 34
-  response: 7DA04621F464A
+    TOYOTA_AAT: 35
+  response: 7DA04621F464B
