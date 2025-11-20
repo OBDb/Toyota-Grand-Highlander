@@ -1,0 +1,90 @@
+command_id: 7D2.7DA.2210A2
+test_cases:
+- expected_values:
+    TOYOTA_RM_TQ: 10.625
+    TOYOTA_RM_TQ_REQ: -407
+  response: |-
+    7DA100C6210A27E697F
+    7DA2188020080550400
+- expected_values:
+    TOYOTA_RM_TQ: 23
+    TOYOTA_RM_TQ_REQ: -258
+  response: |-
+    7DA100C6210A27EFE7F
+    7DA212F020080B80400
+- expected_values:
+    TOYOTA_RM_TQ_REQ: -214
+  response: |-
+    7DA100C6210A27F2A7F
+    7DA2150020080FC0400
+- expected_values:
+    TOYOTA_RM_TQ: -75.375
+    TOYOTA_RM_TQ_REQ: -211
+  response: |-
+    7DA100C6210A27F2D7F
+    7DA210702007DA50400
+- expected_values:
+    TOYOTA_RM_TQ: 36.625
+    TOYOTA_RM_TQ_REQ: -185
+  response: |-
+    7DA100C6210A27F477E
+    7DA21FF020081250400
+- expected_values:
+    TOYOTA_RM_TQ: 38
+    TOYOTA_RM_TQ_REQ: -120
+  response: |-
+    7DA100C6210A27F887E
+    7DA21DD020081300400
+- expected_values:
+    TOYOTA_RM_TQ_REQ: -61
+  response: |-
+    7DA100C6210A27FC380
+    7DA210802007FFC0400
+- expected_values:
+    TOYOTA_RM_TQ_REQ: -59
+  response: |-
+    7DA100C6210A27FC580
+    7DA2111020080000400
+- expected_values:
+    TOYOTA_RM_TQ_REQ: -37
+  response: |-
+    7DA100C6210A27FDB7E
+    7DA21F40200814F0400
+- expected_values:
+    TOYOTA_RM_TQ_REQ: -2
+  response: |-
+    7DA100C6210A27FFE80
+    7DA21000E0080000200
+- expected_values:
+    TOYOTA_RM_TQ: -0.375
+    TOYOTA_RM_TQ_REQ: -1
+  response: |-
+    7DA100C6210A27FFF80
+    7DA210002007FFD0400
+- expected_values:
+    TOYOTA_RM_TQ: -65.5
+    TOYOTA_RM_TQ_REQ: 0
+  response: |-
+    7DA100C6210A2800080
+    7DA210002007DF40400
+- expected_values:
+    TOYOTA_RM_TQ_REQ: 0
+  response: |-
+    7DA100C6210A2800080
+    7DA21000C007FFE0000
+- expected_values:
+    TOYOTA_RM_TQ_REQ: 432
+  response: |-
+    7DA100C6210A281B085
+    7DA2144020088020400
+- expected_values:
+    TOYOTA_RM_TQ_REQ: 1878
+  response: |-
+    7DA100C6210A2875683
+    7DA21010A0380530400
+- expected_values:
+    TOYOTA_RM_TQ: 1
+    TOYOTA_RM_TQ_REQ: 12187
+  response: |-
+    7DA100C6210A2AF9B80
+    7DA21FF0A0280080400
