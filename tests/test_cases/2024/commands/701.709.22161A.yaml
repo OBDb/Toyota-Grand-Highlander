@@ -1,0 +1,11 @@
+command_id: 701.709.22161A
+test_cases:
+- expected_values:
+    TOYOTA_NT_SPEED: 0
+  response: 7090562161A0000
+- expected_values:
+    TOYOTA_NT_SPEED: 1278
+  response: 7090562161A04FE
+- expected_values:
+    TOYOTA_NT_SPEED: 2675
+  response: 7090562161A0A73

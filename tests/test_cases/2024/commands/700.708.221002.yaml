@@ -1,0 +1,8 @@
+command_id: 700.708.221002
+test_cases:
+- expected_values:
+    TOYOTA_BAT_VOLTAGE_V2: 13.23239
+  response: 708056210022A58
+- expected_values:
+    TOYOTA_BAT_VOLTAGE_V2: 14.10641
+  response: 708056210022D24
