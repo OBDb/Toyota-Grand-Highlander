@@ -36,3 +36,9 @@ test_cases:
   response: |-
     7081008621F77014600
     7082100000000000000
+- expected_values:
+    TOYOTA_IAT_B1S1: 35
+    TOYOTA_IAT_B1S2: -40
+  response: |-
+    7081008621F77014B00
+    7082100000000000000
