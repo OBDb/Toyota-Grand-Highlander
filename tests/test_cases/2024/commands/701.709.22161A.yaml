@@ -7,5 +7,5 @@ test_cases:
     TOYOTA_NT_SPEED: 1278
   response: 7090562161A04FE
 - expected_values:
-    TOYOTA_NT_SPEED: 2675
-  response: 7090562161A0A73
+    TOYOTA_NT_SPEED: 3179
+  response: 7090562161A0C6B
