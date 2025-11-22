@@ -1,10 +1,10 @@
 command_id: 700.708.221F77
 test_cases:
 - expected_values:
-    TOYOTA_IAT_B1S1: 25
+    TOYOTA_IAT_B1S1: 23
     TOYOTA_IAT_B1S2: -40
   response: |-
-    7081008621F77014100
+    7081008621F77013F00
     7082100000000000000
 - expected_values:
     TOYOTA_IAT_B1S1: 38
