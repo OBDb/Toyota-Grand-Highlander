@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     TOYOTA_ATF_THERMAL_DEGRAD_EST: 954
   response: 7090562162B03BA
+- expected_values:
+    TOYOTA_ATF_THERMAL_DEGRAD_EST: 956
+  response: 7090562162B03BC
+- expected_values:
+    TOYOTA_ATF_THERMAL_DEGRAD_EST: 957
+  response: 7090562162B03BD
