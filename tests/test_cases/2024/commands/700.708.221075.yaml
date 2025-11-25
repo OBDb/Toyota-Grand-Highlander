@@ -11,4 +11,4 @@ test_cases:
   response: 7080562107593FF
 - expected_values:
     TOYOTA_IWP_SPEED: 300
-  response: 708056210759F84
+  response: 708056210759F0E
