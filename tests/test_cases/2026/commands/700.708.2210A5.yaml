@@ -25,3 +25,15 @@ test_cases:
   response: |-
     70810086210A5000100
     7082100FF0000000000
+- expected_values:
+    TOYOTA_MISFIRE_CNT: 0
+  response: |-
+    7EA03410400
+    70810086210A500004F
+    7082100FF0000000000
+- expected_values:
+    TOYOTA_MISFIRE_CNT: 0
+  response: |-
+    7ED03410488
+    70810086210A5000000
+    7082100D70000000000
