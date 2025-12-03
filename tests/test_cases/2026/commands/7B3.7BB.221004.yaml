@@ -11,7 +11,7 @@ test_cases:
   response: 7BB06621004000200
 - expected_values:
     TOYOTA_STEERING_ANGLE_V2: 410
-  response: 7BB066210040F930E
+  response: 7BB066210040F810F
 - expected_values:
     TOYOTA_STEERING_ANGLE_V2: 410
-  response: 7BB066210040FFF04
+  response: 7BB066210040FFF01
