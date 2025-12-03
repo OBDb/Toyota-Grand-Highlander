@@ -4,20 +4,5 @@ test_cases:
     TOYOTA_ODO_V2_V2: 918
   response: 7DA0762010302000396
 - expected_values:
-    TOYOTA_ODO_V2_V2: 927
-  response: 7DA076201030200039F
-- expected_values:
-    TOYOTA_ODO_V2_V2: 928
-  response: 7DA07620103020003A0
-- expected_values:
-    TOYOTA_ODO_V2_V2: 929
-  response: 7DA07620103020003A1
-- expected_values:
-    TOYOTA_ODO_V2_V2: 930
-  response: 7DA07620103020003A2
-- expected_values:
-    TOYOTA_ODO_V2_V2: 931
-  response: 7DA07620103020003A3
-- expected_values:
-    TOYOTA_ODO_V2_V2: 932
-  response: 7DA07620103020003A4
+    TOYOTA_ODO_V2_V2: 944
+  response: 7DA07620103020003B0
