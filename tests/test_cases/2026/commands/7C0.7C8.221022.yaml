@@ -1,6 +1,9 @@
 command_id: 7C0.7C8.221022
 test_cases:
 - expected_values:
-    TOYOTA_FLV: 27.06
-    TOYOTA_FUEL_LEVEL: 27.06
-  response: 7C8056210220A92
+    TOYOTA_FLV: 20.66
+    TOYOTA_FUEL_LEVEL: 20.66
+  response: 7C8056210220812
+- expected_values:
+    TOYOTA_FUEL_LEVEL: 655.35
+  response: 7C805621022FFFF
