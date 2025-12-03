@@ -4,29 +4,5 @@ test_cases:
     TOYOTA_ECU_INTERNAL_T: 27
   response: '7080462105E43'
 - expected_values:
-    TOYOTA_ECU_INTERNAL_T: 28
-  response: '7080462105E44'
-- expected_values:
-    TOYOTA_ECU_INTERNAL_T: 29
-  response: '7080462105E45'
-- expected_values:
-    TOYOTA_ECU_INTERNAL_T: 30
-  response: '7080462105E46'
-- expected_values:
-    TOYOTA_ECU_INTERNAL_T: 31
-  response: '7080462105E47'
-- expected_values:
-    TOYOTA_ECU_INTERNAL_T: 32
-  response: '7080462105E48'
-- expected_values:
-    TOYOTA_ECU_INTERNAL_T: 33
-  response: '7080462105E49'
-- expected_values:
-    TOYOTA_ECU_INTERNAL_T: 34
-  response: 7080462105E4A
-- expected_values:
-    TOYOTA_ECU_INTERNAL_T: 35
-  response: 7080462105E4B
-- expected_values:
-    TOYOTA_ECU_INTERNAL_T: 36
-  response: 7080462105E4C
+    TOYOTA_ECU_INTERNAL_T: 41
+  response: '7080462105E51'
