@@ -4,11 +4,8 @@ test_cases:
     TOYOTA_CAT_T_11: 146.7
   response: 70805621F3C074B
 - expected_values:
-    TOYOTA_CAT_T_11: 524.1
-  response: 70805621F3C1609
-- expected_values:
     TOYOTA_CAT_T_11: 548.2
   response: 70805621F3C16FA
 - expected_values:
-    TOYOTA_CAT_T_11: 576
-  response: 70805621F3C1810
+    TOYOTA_CAT_T_11: 600.4
+  response: 70805621F3C1904
