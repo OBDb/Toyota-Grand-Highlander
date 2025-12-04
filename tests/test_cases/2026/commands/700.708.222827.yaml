@@ -4,5 +4,5 @@ test_cases:
     TOYOTA_ELECTRIC_WATER_PUMP: 120
   response: '7080462282703'
 - expected_values:
-    TOYOTA_ELECTRIC_WATER_PUMP: 6040
-  response: '7080462282797'
+    TOYOTA_ELECTRIC_WATER_PUMP: 6280
+  response: 708046228279D
