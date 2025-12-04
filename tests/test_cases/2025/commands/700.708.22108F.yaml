@@ -1,5 +1,20 @@
 command_id: 700.708.22108F
 test_cases:
 - expected_values:
+    TOYOTA_EXHAUST_VVT_OVER_ADV_LEARN_B1: 98.4277
+  response: 7080562108F275F
+- expected_values:
+    TOYOTA_EXHAUST_VVT_OVER_ADV_LEARN_B1: 98.44723
+  response: 7080562108F2761
+- expected_values:
+    TOYOTA_EXHAUST_VVT_OVER_ADV_LEARN_B1: 98.47653
+  response: 7080562108F2764
+- expected_values:
+    TOYOTA_EXHAUST_VVT_OVER_ADV_LEARN_B1: 98.50582
+  response: 7080562108F2767
+- expected_values:
     TOYOTA_EXHAUST_VVT_OVER_ADV_LEARN_B1: 98.51559
   response: 7080562108F2768
+- expected_values:
+    TOYOTA_EXHAUST_VVT_OVER_ADV_LEARN_B1: 98.53512
+  response: 7080562108F276A
