@@ -4,5 +4,5 @@ test_cases:
     TOYOTA_AAT_V2: 16
   response: 7DA04621F4638
 - expected_values:
-    TOYOTA_AAT_V2: 26
-  response: 7DA04621F4642
+    TOYOTA_AAT_V2: 28
+  response: 7DA04621F4644
