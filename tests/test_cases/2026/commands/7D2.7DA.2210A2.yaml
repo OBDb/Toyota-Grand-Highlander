@@ -6,10 +6,10 @@ test_cases:
     7DA100C6210A27EC27F
     7DA21F404007FF30400
 - expected_values:
-    TOYOTA_RM_TQ_REQ: -55
+    TOYOTA_RM_TQ_REQ: -88
   response: |-
-    7DA100C6210A27FC97F
-    7DA21BF04007FBE0400
+    7DA100C6210A27FA87F
+    7DA21DF04007FE20400
 - expected_values:
     TOYOTA_RM_TQ_REQ: -6
   response: |-
