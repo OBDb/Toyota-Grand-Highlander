@@ -323,6 +323,7 @@ unsupported_commands_by_ecu:
   - 7E0.010F:IAT
   - 7E0.0110:MAF
   - 7E0.011C:OBDSUP
+  - 7E0.011F:RUNTM
   - 7E0.012E:EVAP_PCT
   - 7E0.0131:CLR_DIST
   - 7E0.0133:BARO
@@ -366,6 +367,7 @@ unsupported_commands_by_ecu:
   - 7E2.7EA.010C
   - 7E2.7EA.010D
   - 7E2.7EA.010F
+  - 7E2.7EA.011F
   - 7E2.7EA.0131
   - 7E2.7EA.0133
   - 7E2.7EA.0142
@@ -376,6 +378,7 @@ unsupported_commands_by_ecu:
   - 7E5.7ED.0105
   - 7E5.7ED.010C
   - 7E5.7ED.010D
+  - 7E5.7ED.011F
   - 7E5.7ED.0131
   - 7E5.7ED.0142
   "7E6":
@@ -384,5 +387,6 @@ unsupported_commands_by_ecu:
   - 7E6.7EE.010C
   - 7E6.7EE.010D
   - 7E6.7EE.010F
+  - 7E6.7EE.011F
   - 7E6.7EE.0131
   - 7E6.7EE.0142
