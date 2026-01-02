@@ -10,5 +10,5 @@ test_cases:
     TOYOTA_12V_C: 8.959999999547108e-05
   response: 7DA056215F78000
 - expected_values:
-    TOYOTA_12V_C: 21.40437
-  response: 7DA056215F795EB
+    TOYOTA_12V_C: 21.90791
+  response: 7DA056215F7966F
