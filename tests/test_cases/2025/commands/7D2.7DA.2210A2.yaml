@@ -7,6 +7,7 @@ test_cases:
     7DA100C6210A27EA97F
     7DA216802007F610400
 - expected_values:
+    TOYOTA_RM_TQ: -38.625
     TOYOTA_RM_TQ_REQ: -278
   response: |-
     7DA100C6210A27EEA7E
@@ -69,6 +70,7 @@ test_cases:
     7DA100C6210A27FFF7E
     7DA21E202007EC70400
 - expected_values:
+    TOYOTA_RM_TQ: -38.75
     TOYOTA_RM_TQ_REQ: 0
   response: |-
     7DA100C6210A280007E
