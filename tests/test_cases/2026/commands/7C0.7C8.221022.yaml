@@ -9,9 +9,9 @@ test_cases:
     TOYOTA_FUEL_LEVEL: 12.79
   response: 7C80562102204FF
 - expected_values:
-    TOYOTA_FLV: 20.48
-    TOYOTA_FUEL_LEVEL: 20.48
-  response: 7C8056210220800
+    TOYOTA_FLV: 15.36
+    TOYOTA_FUEL_LEVEL: 15.36
+  response: 7C8056210220600
 - expected_values:
     TOYOTA_FUEL_LEVEL: 655.35
   response: 7C805621022FFFF
