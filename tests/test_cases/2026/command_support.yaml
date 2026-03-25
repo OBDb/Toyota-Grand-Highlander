@@ -79,6 +79,7 @@ supported_commands_by_ecu:
   - 7DF.010E
   - 7DF.010F
   - 7DF.0110
+  - 7DF.011F
   - 7DF.012E
   - 7DF.0131
   - 7DF.0133
@@ -131,6 +132,10 @@ supported_commands_by_ecu:
   - 0145:TP_R
   - 0146:AAT
   - 0147:TP_B
+  - 7E0.0105:ECT
+  - 7E0.0106:SHRTFT1
+  "7E5":
+  - 7E5.7ED.0104
 unsupported_commands_by_ecu:
   "6F1":
   - 6F1.221700|e=40,fc=1:TOYOTA_ODO_V3
@@ -240,14 +245,13 @@ unsupported_commands_by_ecu:
   "7E0":
   - 7E0.0103:FUELSYS1,FUELSYS2
   - 7E0.0104:LOAD_PCT
-  - 7E0.0105:ECT
-  - 7E0.0106:SHRTFT1
   - 7E0.0107:LONGFT1
   - 7E0.010C:RPM
   - 7E0.010D:VSS
   - 7E0.010E:SPARKADV
   - 7E0.010F:IAT
   - 7E0.0110:MAF
+  - 7E0.0111:TP
   - 7E0.011C:OBDSUP
   - 7E0.011F:RUNTM
   - 7E0.012E:EVAP_PCT
@@ -259,6 +263,7 @@ unsupported_commands_by_ecu:
   - 7E0.0142:VPWR
   - 7E0.0143:LOAD_ABS
   - 7E0.0144:EQ_RAT
+  - 7E0.0147:TP_B
   - 7E0.014C:TAC_PCT
   - 7E0.0151:FUEL_TYP
   - 7E0.0153:EVAP_VPA
@@ -293,6 +298,7 @@ unsupported_commands_by_ecu:
   - 7E2.7EA.010C
   - 7E2.7EA.010D
   - 7E2.7EA.010F
+  - 7E2.7EA.0111
   - 7E2.7EA.011F
   - 7E2.7EA.0131
   - 7E2.7EA.0133
@@ -300,10 +306,10 @@ unsupported_commands_by_ecu:
   - 7E2.7EA.015B
   - 7E2.7EA.01A6
   "7E5":
-  - 7E5.7ED.0104
   - 7E5.7ED.0105
   - 7E5.7ED.010C
   - 7E5.7ED.010D
+  - 7E5.7ED.0111
   - 7E5.7ED.011F
   - 7E5.7ED.0131
   - 7E5.7ED.0142
@@ -313,6 +319,7 @@ unsupported_commands_by_ecu:
   - 7E6.7EE.010C
   - 7E6.7EE.010D
   - 7E6.7EE.010F
+  - 7E6.7EE.0111
   - 7E6.7EE.011F
   - 7E6.7EE.0131
   - 7E6.7EE.0142
