@@ -9,9 +9,9 @@ test_cases:
     TOYOTA_ECT_INIT: 8.75
   response: 708056210414E4E
 - expected_values:
-    TOYOTA_ECT_IGN: 30
-    TOYOTA_ECT_INIT: 90.625
-  response: 7080562104170D1
+    TOYOTA_ECT_IGN: 68.75
+    TOYOTA_ECT_INIT: 91.875
+  response: 70805621041AED3
 - expected_values:
     TOYOTA_ECT_IGN: 83.125
     TOYOTA_ECT_INIT: 83.75
