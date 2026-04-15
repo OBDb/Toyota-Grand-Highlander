@@ -4,5 +4,5 @@ test_cases:
     TOYOTA_MASTER_CYL_TEMP: 7
   response: 7B8056210065700
 - expected_values:
-    TOYOTA_MASTER_CYL_TEMP: 43
-  response: 7B8056210067B00
+    TOYOTA_MASTER_CYL_TEMP: 44
+  response: 7B8056210067C00
