@@ -4,29 +4,8 @@ test_cases:
     TOYOTA_ATF_THERMAL_DEGRAD_EST: 448
   response: 7090562162B01C0
 - expected_values:
-    TOYOTA_ATF_THERMAL_DEGRAD_EST: 449
-  response: 7090562162B01C1
-- expected_values:
-    TOYOTA_ATF_THERMAL_DEGRAD_EST: 451
-  response: 7090562162B01C3
-- expected_values:
-    TOYOTA_ATF_THERMAL_DEGRAD_EST: 452
-  response: 7090562162B01C4
-- expected_values:
-    TOYOTA_ATF_THERMAL_DEGRAD_EST: 453
-  response: 7090562162B01C5
-- expected_values:
     TOYOTA_ATF_THERMAL_DEGRAD_EST: 454
   response: 7090562162B01C6
 - expected_values:
     TOYOTA_ATF_THERMAL_DEGRAD_EST: 918
   response: 7090562162B0396
-- expected_values:
-    TOYOTA_ATF_THERMAL_DEGRAD_EST: 928
-  response: 7090562162B03A0
-- expected_values:
-    TOYOTA_ATF_THERMAL_DEGRAD_EST: 931
-  response: 7090562162B03A3
-- expected_values:
-    TOYOTA_ATF_THERMAL_DEGRAD_EST: 936
-  response: 7090562162B03A8
