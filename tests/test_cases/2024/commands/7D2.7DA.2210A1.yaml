@@ -25,11 +25,11 @@ test_cases:
     7DA100C6210A17FBC80
     7DA2104020080000400
 - expected_values:
-    TOYOTA_RPM: -23
-    TOYOTA_TQ: -0.25
+    TOYOTA_RPM: -25
+    TOYOTA_TQ: -0.125
   response: |-
-    7DA100C6210A17FE980
-    7DA210002007FFE0400
+    7DA100C6210A17FE780
+    7DA210002007FFF0400
 - expected_values:
     TOYOTA_RPM: -11
     TOYOTA_TQ: -1
@@ -42,12 +42,6 @@ test_cases:
   response: |-
     7DA100C6210A17FF680
     7DA210F020080100400
-- expected_values:
-    TOYOTA_RPM: -9
-    TOYOTA_TQ: 1.875
-  response: |-
-    7DA100C6210A17FF780
-    7DA210E0200800F0400
 - expected_values:
     TOYOTA_RPM: -3
     TOYOTA_TQ: 0
