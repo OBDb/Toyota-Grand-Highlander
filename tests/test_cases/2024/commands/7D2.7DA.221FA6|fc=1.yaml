@@ -7,5 +7,5 @@ test_cases:
     TOYOTA_ODO_1FA6: 67916.4
   response: 7DA07621FA6000A5CFC
 - expected_values:
-    TOYOTA_ODO_1FA6: 67917
-  response: 7DA07621FA6000A5D02
+    TOYOTA_ODO_1FA6: 67942.5
+  response: 7DA07621FA6000A5E01
