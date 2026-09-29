@@ -1,0 +1,26 @@
+command_id: 7D2.7DA.22106E|fc=1
+test_cases:
+- expected_values:
+    TOYOTA_HVAC_P: 0
+  response: 7DA0462106E00
+- expected_values:
+    TOYOTA_HVAC_P: 0.25
+  response: 7DA0462106E05
+- expected_values:
+    TOYOTA_HVAC_P: 0.3
+  response: 7DA0462106E06
+- expected_values:
+    TOYOTA_HVAC_P: 0.4
+  response: 7DA0462106E08
+- expected_values:
+    TOYOTA_HVAC_P: 0.7
+  response: 7DA0462106E0E
+- expected_values:
+    TOYOTA_HVAC_P: 0.75
+  response: 7DA0462106E0F
+- expected_values:
+    TOYOTA_HVAC_P: 0.8
+  response: 7DA0462106E10
+- expected_values:
+    TOYOTA_HVAC_P: 0.85
+  response: 7DA0462106E11

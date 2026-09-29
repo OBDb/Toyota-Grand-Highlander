@@ -1,0 +1,11 @@
+command_id: 7C4.7CC.221002|fc=1
+test_cases:
+- expected_values:
+    TOYOTA_AAT_7C4_V2: 25.15
+  response: 7CC0562100209D3
+- expected_values:
+    TOYOTA_AAT_7C4_V2: 25.53
+  response: 7CC0562100209F9
+- expected_values:
+    TOYOTA_AAT_7C4_V2: 25.78
+  response: 7CC056210020A12
