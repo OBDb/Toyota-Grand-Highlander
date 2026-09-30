@@ -1,14 +1,14 @@
 command_id: 700.708.221F3E
 test_cases:
 - expected_values:
-    TOYOTA_CAT_T_12: 53
+    GRAND_HIGHLANDER_CAT_T_12: 53
   response: 70805621F3E03A2
 - expected_values:
-    TOYOTA_CAT_T_12: 190.4
+    GRAND_HIGHLANDER_CAT_T_12: 190.4
   response: 70805621F3E0900
 - expected_values:
-    TOYOTA_CAT_T_12: 241.5
+    GRAND_HIGHLANDER_CAT_T_12: 241.5
   response: 70805621F3E0AFF
 - expected_values:
-    TOYOTA_CAT_T_12: 728.7
+    GRAND_HIGHLANDER_CAT_T_12: 728.7
   response: 70805621F3E1E07

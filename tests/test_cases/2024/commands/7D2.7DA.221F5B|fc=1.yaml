@@ -1,8 +1,8 @@
-command_id: 7D2.221F5B|fc=1
+command_id: 7D2.7DA.221F5B|fc=1
 test_cases:
 - expected_values:
-    TOYOTA_SOC: 23.92157
+    GRAND_HIGHLANDER_SOC: 23.92157
   response: 7DA04621F5B3D
 - expected_values:
-    TOYOTA_SOC: 82.7451
+    GRAND_HIGHLANDER_SOC: 82.7451
   response: 7DA04621F5BD3
