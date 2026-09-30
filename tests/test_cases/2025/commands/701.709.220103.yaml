@@ -1,14 +1,14 @@
 command_id: 701.709.220103
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_ODO_V5: 1241
+    GH_ODO_V5: 1241
   response: 70907620103020004D9
 - expected_values:
-    GRAND_HIGHLANDER_ODO_V5: 1791
+    GH_ODO_V5: 1791
   response: 70907620103020006FF
 - expected_values:
-    GRAND_HIGHLANDER_ODO_V5: 1792
+    GH_ODO_V5: 1792
   response: '7090762010302000700'
 - expected_values:
-    GRAND_HIGHLANDER_ODO_V5: 14867
+    GH_ODO_V5: 14867
   response: 7090762010302003A13

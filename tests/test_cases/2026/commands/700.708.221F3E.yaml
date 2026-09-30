@@ -1,14 +1,14 @@
 command_id: 700.708.221F3E
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_CAT_T_12: 21.7
+    GH_CAT_T_12: 21.7
   response: 70805621F3E0269
 - expected_values:
-    GRAND_HIGHLANDER_CAT_T_12: 62.4
+    GH_CAT_T_12: 62.4
   response: 70805621F3E0400
 - expected_values:
-    GRAND_HIGHLANDER_CAT_T_12: 190.3
+    GH_CAT_T_12: 190.3
   response: 70805621F3E08FF
 - expected_values:
-    GRAND_HIGHLANDER_CAT_T_12: 680.6
+    GH_CAT_T_12: 680.6
   response: 70805621F3E1C26

@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F05
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_COOL_T: 12
+    GH_COOL_T: 12
   response: 7DA04621F0534
 - expected_values:
-    GRAND_HIGHLANDER_COOL_T: 98
+    GH_COOL_T: 98
   response: 7DA04621F058A

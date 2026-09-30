@@ -1,14 +1,14 @@
 command_id: 700.708.2210CD
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_LFP: 270.8
+    GH_LFP: 270.8
   response: 708056210CD8A94
 - expected_values:
-    GRAND_HIGHLANDER_LFP: 281.6
+    GH_LFP: 281.6
   response: 708056210CD8B00
 - expected_values:
-    GRAND_HIGHLANDER_LFP: 409.5
+    GH_LFP: 409.5
   response: 708056210CD8FFF
 - expected_values:
-    GRAND_HIGHLANDER_LFP: 668.3
+    GH_LFP: 668.3
   response: 708056210CD9A1B

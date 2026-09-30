@@ -1,11 +1,11 @@
 command_id: 701.709.22161A
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_NT_SPD: 0
+    GH_NT_SPD: 0
   response: 7090562161A0000
 - expected_values:
-    GRAND_HIGHLANDER_NT_SPD: 1535
+    GH_NT_SPD: 1535
   response: 7090562161A05FF
 - expected_values:
-    GRAND_HIGHLANDER_NT_SPD: 4782
+    GH_NT_SPD: 4782
   response: 7090562161A12AE
