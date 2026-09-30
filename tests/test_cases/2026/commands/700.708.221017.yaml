@@ -1,11 +1,11 @@
 command_id: 700.708.221017
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_INJ_VOL: 0
+    GH_INJ_VOL: 0
   response: '708056210170000'
 - expected_values:
-    GRAND_HIGHLANDER_INJ_VOL: 0.79969
+    GH_INJ_VOL: 0.79969
   response: 7080562101709FF
 - expected_values:
-    GRAND_HIGHLANDER_INJ_VOL: 8.66469
+    GH_INJ_VOL: 8.66469
   response: 708056210176C4F

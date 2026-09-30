@@ -1,8 +1,8 @@
 command_id: 700.708.222827
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_ELECTRIC_WATER_PUMP: 0
+    GH_ELECTRIC_WATER_PUMP: 0
   response: '7080462282700'
 - expected_values:
-    GRAND_HIGHLANDER_ELECTRIC_WATER_PUMP: 6880
+    GH_ELECTRIC_WATER_PUMP: 6880
   response: 70804622827AC

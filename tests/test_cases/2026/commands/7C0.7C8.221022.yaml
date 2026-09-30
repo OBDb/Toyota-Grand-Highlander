@@ -1,14 +1,14 @@
 command_id: 7C0.7C8.221022
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_FUEL_LEVEL: 2.97
+    GH_FUEL_LEVEL: 2.97
   response: 7C8056210220129
 - expected_values:
-    GRAND_HIGHLANDER_FUEL_LEVEL: 7.67
+    GH_FUEL_LEVEL: 7.67
   response: 7C80562102202FF
 - expected_values:
-    GRAND_HIGHLANDER_FUEL_LEVEL: 12.8
+    GH_FUEL_LEVEL: 12.8
   response: 7C8056210220500
 - expected_values:
-    GRAND_HIGHLANDER_FUEL_LEVEL: 655.35
-  response: 7C805621022FFFF
+    GH_FUEL_LEVEL: 64
+  response: 7C8056210221900

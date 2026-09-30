@@ -1,14 +1,14 @@
 command_id: 7D2.7DA.2215F7
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_12V_C: -24.5208
+    GH_12V_C: -24.5208
   response: 7DA056215F766E4
 - expected_values:
-    GRAND_HIGHLANDER_12V_C: -1.95304
+    GH_12V_C: -1.95304
   response: 7DA056215F77E00
 - expected_values:
-    GRAND_HIGHLANDER_12V_C: -0.98029
+    GH_12V_C: -0.98029
   response: 7DA056215F77EFF
 - expected_values:
-    GRAND_HIGHLANDER_12V_C: 34.84737
+    GH_12V_C: 34.84737
   response: 7DA056215F7A3AF

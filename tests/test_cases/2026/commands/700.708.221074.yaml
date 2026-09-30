@@ -1,14 +1,14 @@
 command_id: 700.708.221074
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_EOP: 1.17188
+    GH_EOP: 1.17188
   response: 70805621074000F
 - expected_values:
-    GRAND_HIGHLANDER_EOP: 20
+    GH_EOP: 20
   response: '708056210740100'
 - expected_values:
-    GRAND_HIGHLANDER_EOP: 39.92188
+    GH_EOP: 39.92188
   response: 7080562107401FF
 - expected_values:
-    GRAND_HIGHLANDER_EOP: 594.45312
+    GH_EOP: 594.45312
   response: 708056210741DB9

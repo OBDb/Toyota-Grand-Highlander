@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.2210B2
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_INVRT_COOLANT_T: 3
+    GH_INVRT_COOLANT_T: 3
   response: 7DA046210B22B
 - expected_values:
-    GRAND_HIGHLANDER_INVRT_COOLANT_T: 48
+    GH_INVRT_COOLANT_T: 48
   response: 7DA046210B258
