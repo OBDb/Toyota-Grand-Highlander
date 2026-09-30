@@ -4,5 +4,5 @@ test_cases:
     GRAND_HIGHLANDER_COOL_T: 21
   response: 7DA04621F053D
 - expected_values:
-    GRAND_HIGHLANDER_COOL_T: 215
-  response: 7DA04621F05FF
+    GRAND_HIGHLANDER_COOL_T: 94
+  response: 7DA04621F0586
