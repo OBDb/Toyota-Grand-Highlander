@@ -1,18 +1,14 @@
 command_id: 700.708.2210CD
 test_cases:
 - expected_values:
-    TOYOTA_LFP: 0
-    TOYOTA_LFPS: 3270
+    GRAND_HIGHLANDER_LFP: 0
   response: 708056210CD7FBC
 - expected_values:
-    TOYOTA_LFP: 255.9
-    TOYOTA_LFPS: -3020.9
+    GRAND_HIGHLANDER_LFP: 255.9
   response: 708056210CD89FF
 - expected_values:
-    TOYOTA_LFP: 332.8
-    TOYOTA_LFPS: -2944
+    GRAND_HIGHLANDER_LFP: 332.8
   response: 708056210CD8D00
 - expected_values:
-    TOYOTA_LFP: 640.4
-    TOYOTA_LFPS: -2636.4
+    GRAND_HIGHLANDER_LFP: 640.4
   response: 708056210CD9904

@@ -1,8 +1,8 @@
 command_id: 700.708.221F46
 test_cases:
 - expected_values:
-    TOYOTA_AMBIENT_T: -12
+    GRAND_HIGHLANDER_AMBIENT_T: -12
   response: 70804621F461C
 - expected_values:
-    TOYOTA_AMBIENT_T: 68
+    GRAND_HIGHLANDER_AMBIENT_T: 68
   response: 70804621F466C
