@@ -1,17 +1,17 @@
 command_id: 7D2.7DA.220103|fc=1
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_ODO_V2_V2: 1241
+    GH_ODO_V2_V2: 1241
   response: 7DA07620103020004D9
 - expected_values:
-    GRAND_HIGHLANDER_ODO_V2_V2: 7893
+    GH_ODO_V2_V2: 7893
   response: 7DA0762010302001ED5
 - expected_values:
-    GRAND_HIGHLANDER_ODO_V2_V2: 8191
+    GH_ODO_V2_V2: 8191
   response: 7DA0762010302001FFF
 - expected_values:
-    GRAND_HIGHLANDER_ODO_V2_V2: 8192
+    GH_ODO_V2_V2: 8192
   response: 7DA0762010302002000
 - expected_values:
-    GRAND_HIGHLANDER_ODO_V2_V2: 9728
+    GH_ODO_V2_V2: 9728
   response: 7DA0762010302002600

@@ -1,11 +1,11 @@
 command_id: 7C4.7CC.221002|fc=1
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_AAT_7C4_V2: 25.15
+    GH_AAT_7C4_V2: 25.15
   response: 7CC0562100209D3
 - expected_values:
-    GRAND_HIGHLANDER_AAT_7C4_V2: 35.79
+    GH_AAT_7C4_V2: 35.79
   response: 7CC056210020DFB
 - expected_values:
-    GRAND_HIGHLANDER_AAT_7C4_V2: 35.88
+    GH_AAT_7C4_V2: 35.88
   response: 7CC056210020E04

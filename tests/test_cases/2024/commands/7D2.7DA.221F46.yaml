@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F46
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_AAT_7D2: -12
+    GH_AAT_7D2: -12
   response: 7DA04621F461C
 - expected_values:
-    GRAND_HIGHLANDER_AAT_7D2: 44
+    GH_AAT_7D2: 44
   response: 7DA04621F4654

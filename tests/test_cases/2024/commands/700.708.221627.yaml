@@ -1,19 +1,19 @@
 command_id: 700.708.221627
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_ATF_T_PAN_V3: 13.75
+    GH_ATF_T_PAN_V3: 13.75
   response: 7080562162735C0
 - expected_values:
-    GRAND_HIGHLANDER_ATF_T_PAN_V3: 16.875
+    GH_ATF_T_PAN_V3: 16.875
   response: '7080562162738E0'
 - expected_values:
-    GRAND_HIGHLANDER_ATF_T_PAN_V3: 25
+    GH_ATF_T_PAN_V3: 25
   response: '708056216274100'
 - expected_values:
-    GRAND_HIGHLANDER_ATF_T_PAN_V3: 101.875
+    GH_ATF_T_PAN_V3: 101.875
   response: 708056216278DE0
 - expected_values:
-    GRAND_HIGHLANDER_ATF_T_PAN_V3: 83.75
+    GH_ATF_T_PAN_V3: 83.75
   response: |-
     7082200000000000000
     708056216277BC0

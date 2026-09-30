@@ -1,14 +1,14 @@
 command_id: 701.709.221627
 test_cases:
 - expected_values:
-    GRAND_HIGHLANDER_TF1_PAN: 65.75
+    GH_TF1_PAN: 65.75
   response: 709056216273AC0
 - expected_values:
-    GRAND_HIGHLANDER_TF1_PAN: 77
+    GH_TF1_PAN: 77
   response: '709056216274100'
 - expected_values:
-    GRAND_HIGHLANDER_TF1_PAN: 80.375
+    GH_TF1_PAN: 80.375
   response: '7090562162742E0'
 - expected_values:
-    GRAND_HIGHLANDER_TF1_PAN: 221
+    GH_TF1_PAN: 221
   response: '709056216279100'
