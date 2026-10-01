@@ -1,0 +1,17 @@
+command_id: 7D2.7DA.2210A5
+test_cases:
+- expected_values:
+    GH_MAX_MOTOR_INVERTER_T: 75
+    GH_MOTOR_INVERTER_T: 31
+    GH_MOTOR_INVERTER_T_ON: 34
+  response: 7DA066210A5474A73
+- expected_values:
+    GH_MAX_MOTOR_INVERTER_T: 66
+    GH_MOTOR_INVERTER_T: 46
+    GH_MOTOR_INVERTER_T_ON: 34
+  response: 7DA066210A5564A6A
+- expected_values:
+    GH_MAX_MOTOR_INVERTER_T: 67
+    GH_MOTOR_INVERTER_T: 49
+    GH_MOTOR_INVERTER_T_ON: 34
+  response: 7DA066210A5594A6B

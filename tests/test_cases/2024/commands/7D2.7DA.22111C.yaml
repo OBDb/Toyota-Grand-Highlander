@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.22111C
+test_cases:
+- expected_values:
+    GH_DC_DC_CONV_OUTPUT: 35.15625
+  response: 7DA0462111C2D
+- expected_values:
+    GH_DC_DC_CONV_OUTPUT: 54.6875
+  response: 7DA0462111C46

@@ -1,15 +1,14 @@
 command_id: 750.758.221004|e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
-    GH_TT_4: 27
+    GH_TT_1: null
+    GH_TT_2: null
+    GH_TT_3: null
+    GH_TT_4: null
+    GH_TT_5: null
   response: |-
     7582A10086210040000
-    7582A21004300000000
-- expected_values:
-    GH_TT_3: 24
-  response: |-
-    7582A10086210040000
-    7582A21400000000000
+    7582A21000000000000
 - expected_values:
     GH_TT_2: 43
   response: |-

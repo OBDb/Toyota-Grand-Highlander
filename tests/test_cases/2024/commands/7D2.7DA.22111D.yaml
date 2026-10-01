@@ -1,0 +1,20 @@
+command_id: 7D2.7DA.22111D
+test_cases:
+- expected_values:
+    GH_DC_DC_CONV_LOW_SIDE_V: 12.81168
+  response: 7DA0462111DA4
+- expected_values:
+    GH_DC_DC_CONV_LOW_SIDE_V: 12.8898
+  response: 7DA0462111DA5
+- expected_values:
+    GH_DC_DC_CONV_LOW_SIDE_V: 13.2804
+  response: 7DA0462111DAA
+- expected_values:
+    GH_DC_DC_CONV_LOW_SIDE_V: 13.671
+  response: 7DA0462111DAF
+- expected_values:
+    GH_DC_DC_CONV_LOW_SIDE_V: 13.74912
+  response: 7DA0462111DB0
+- expected_values:
+    GH_DC_DC_CONV_LOW_SIDE_V: 14.0616
+  response: 7DA0462111DB4

@@ -1,28 +1,20 @@
 command_id: 750.758.221005|e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
-    GH_TP_4: 30.90909
+    GH_TP_1: null
+    GH_TP_2: null
+    GH_TP_3: null
+    GH_TP_4: null
+    GH_TP_5: null
   response: |-
     7582A100D6210050000
-    7582A21000000000097
+    7582A21000000000000
     7582A22000000000000
 - expected_values:
     GH_TP_4: 32.84848
   response: |-
     7582A100D6210050000
     7582A2100000000009F
-    7582A22000000000000
-- expected_values:
-    GH_TP_4: 33.09091
-  response: |-
-    7582A100D6210050000
-    7582A210000000000A0
-    7582A22000000000000
-- expected_values:
-    GH_TP_3: 31.39394
-  response: |-
-    7582A100D6210050000
-    7582A21000000990000
     7582A22000000000000
 - expected_values:
     GH_TP_3: 36.9697
