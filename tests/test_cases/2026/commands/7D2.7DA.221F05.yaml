@@ -4,5 +4,5 @@ test_cases:
     GH_COOL_T: 21
   response: 7DA04621F053D
 - expected_values:
-    GH_COOL_T: 94
-  response: 7DA04621F0586
+    GH_COOL_T: null
+  response: 7DA04621F05FF
