@@ -10,5 +10,5 @@ test_cases:
     GH_FUEL_LEVEL: 10.23
   response: 7C80562102203FF
 - expected_values:
-    GH_FUEL_LEVEL: 66.56
-  response: 7C8056210221A00
+    GH_FUEL_LEVEL: null
+  response: 7C805621022FFFF
