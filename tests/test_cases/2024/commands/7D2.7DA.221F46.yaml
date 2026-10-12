@@ -4,5 +4,8 @@ test_cases:
     GH_AAT_7D2: null
   response: 7DA04621F4600
 - expected_values:
+    GH_AAT_7D2: -12
+  response: 7DA04621F461C
+- expected_values:
     GH_AAT_7D2: 44
   response: 7DA04621F4654
