@@ -1,0 +1,17 @@
+command_id: 7D2.7DA.2210A8
+test_cases:
+- expected_values:
+    GH_GEN_INVERTER_T_7D2: 30
+    GH_GEN_INVERTER_T_AFTER_ON: 35
+    GH_MAX_GEN_INVERTER_T: 44
+  response: 7DA066210A8464B54
+- expected_values:
+    GH_GEN_INVERTER_T_7D2: 30
+    GH_GEN_INVERTER_T_AFTER_ON: 35
+    GH_MAX_GEN_INVERTER_T: 47
+  response: 7DA066210A8464B57
+- expected_values:
+    GH_GEN_INVERTER_T_7D2: 41
+    GH_GEN_INVERTER_T_AFTER_ON: 35
+    GH_MAX_GEN_INVERTER_T: 47
+  response: 7DA066210A8514B57

@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.2210B0
+test_cases:
+- expected_values:
+    GH_VH_V_AFTER_BOOSTING: 265.5
+    GH_VL_V_BEFORE_BOOSTING: 266
+  response: 7DA076210B002140213
+- expected_values:
+    GH_VH_V_AFTER_BOOSTING: 379
+    GH_VL_V_BEFORE_BOOSTING: 293.5
+  response: 7DA076210B0024B02F6
+- expected_values:
+    GH_VH_V_AFTER_BOOSTING: 324
+    GH_VL_V_BEFORE_BOOSTING: 322
+  response: 7DA076210B002840288

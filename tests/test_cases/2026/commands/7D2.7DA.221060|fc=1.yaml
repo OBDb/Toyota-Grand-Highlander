@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.221060|fc=1
+test_cases:
+- expected_values:
+    GH_APP_V2: 0
+  response: 7DA0462106000
+- expected_values:
+    GH_APP_V2: 6
+  response: 7DA046210600C
+- expected_values:
+    GH_APP_V2: 8.5
+  response: 7DA0462106011

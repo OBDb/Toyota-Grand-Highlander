@@ -1,0 +1,18 @@
+command_id: 7D2.7DA.22106A
+test_cases:
+- expected_values:
+    GH_REAR_MOTOR: -96.75
+    GH_REAR_MOTOR_REGENERATIVE: -94.5
+  response: 7DA0762106A7CFA7D0C
+- expected_values:
+    GH_REAR_MOTOR: -52.75
+    GH_REAR_MOTOR_REGENERATIVE: -52.75
+  response: 7DA0762106A7E5A7E5A
+- expected_values:
+    GH_REAR_MOTOR: -35.25
+    GH_REAR_MOTOR_REGENERATIVE: -35.25
+  response: 7DA0762106A7EE67EE6
+- expected_values:
+    GH_REAR_MOTOR: 0
+    GH_REAR_MOTOR_REGENERATIVE: 0
+  response: 7DA0762106A80008000

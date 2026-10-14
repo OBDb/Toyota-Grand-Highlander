@@ -10,5 +10,5 @@ test_cases:
     GH_DIST_SINCE_BAT_DISC: 1536
   response: 7080562106C0600
 - expected_values:
-    GH_DIST_SINCE_BAT_DISC: 11264
-  response: 7080562106C2C00
+    GH_DIST_SINCE_BAT_DISC: 14859
+  response: 7080562106C3A0B

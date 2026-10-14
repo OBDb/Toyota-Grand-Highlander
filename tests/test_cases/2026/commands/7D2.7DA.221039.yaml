@@ -1,0 +1,20 @@
+command_id: 7D2.7DA.221039
+test_cases:
+- expected_values:
+    GH_FRONT_REAR_MOTOR_TQ: -29.55
+  response: 7DA0762103920A40C92
+- expected_values:
+    GH_FRONT_REAR_MOTOR_TQ: -29.538
+  response: 7DA0762103920A40C9E
+- expected_values:
+    GH_FRONT_REAR_MOTOR_TQ: -29.537
+  response: 7DA0762103920A40C9F
+- expected_values:
+    GH_FRONT_REAR_MOTOR_TQ: -29.526
+  response: 7DA0762103920A40CAA
+- expected_values:
+    GH_FRONT_REAR_MOTOR_TQ: -29.525
+  response: 7DA0762103920A40CAB
+- expected_values:
+    GH_FRONT_REAR_MOTOR_TQ: -29.513
+  response: 7DA0762103920A40CB7

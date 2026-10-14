@@ -1,0 +1,37 @@
+command_id: 7D2.7DA.220102
+test_cases:
+- expected_values:
+    GH_KEY_CYCLE: 1775
+  response: |-
+    7DA100A62010206EF00
+    7DA210C649B01000000
+- expected_values:
+    GH_KEY_CYCLE: 1775
+  response: |-
+    7DA100A62010206EF00
+    7DA2113CD7001000000
+- expected_values:
+    GH_KEY_CYCLE: 1775
+  response: |-
+    7DA100A62010206EF00
+    7DA2114554F01000000
+- expected_values:
+    GH_KEY_CYCLE: 1775
+  response: |-
+    7DA100A62010206EF00
+    7DA21198FBE01000000
+- expected_values:
+    GH_KEY_CYCLE: 1775
+  response: |-
+    7DA100A62010206EF00
+    7DA211FF44901000000
+- expected_values:
+    GH_KEY_CYCLE: 1775
+  response: |-
+    7DA100A62010206EF00
+    7DA2121905101000000
+- expected_values:
+    GH_KEY_CYCLE: 1775
+  response: |-
+    7DA100A62010206EF00
+    7DA21304CBC01000000
