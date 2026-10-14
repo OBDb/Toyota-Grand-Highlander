@@ -1,0 +1,11 @@
+command_id: 7B0.7B8.22104C|fc=1
+test_cases:
+- expected_values:
+    GH_BRAKE_STROKE: 0
+  response: 7B80462104C00
+- expected_values:
+    GH_BRAKE_STROKE: 28
+  response: 7B80462104C1C
+- expected_values:
+    GH_BRAKE_STROKE: 31
+  response: 7B80462104C1F

@@ -1,0 +1,10 @@
+command_id: 7D2.7DA.2215E8|fc=1
+test_cases:
+- expected_values:
+    GH_12V_AH_IN: 2183.1
+    GH_12V_AH_OUT: 848.3
+    GH_READY_HOURS: 40
+  response: |-
+    7DA10146215E8000055
+    7DA2147000021238080
+    7DA22002800000BB1C0

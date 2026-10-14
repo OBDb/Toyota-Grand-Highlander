@@ -1,0 +1,11 @@
+command_id: 700.708.220103
+test_cases:
+- expected_values:
+    GH_ENG_ODO: 9718
+  response: 70807620103020025F6
+- expected_values:
+    GH_ENG_ODO: 9719
+  response: 70807620103020025F7
+- expected_values:
+    GH_ENG_ODO: 9720
+  response: 70807620103020025F8

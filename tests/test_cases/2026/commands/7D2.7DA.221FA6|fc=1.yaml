@@ -1,0 +1,17 @@
+command_id: 7D2.7DA.221FA6|fc=1
+test_cases:
+- expected_values:
+    GH_ODO_1FA6: 15640
+  response: 7DA07621FA6000262F0
+- expected_values:
+    GH_ODO_1FA6: 15640.5
+  response: 7DA07621FA6000262F5
+- expected_values:
+    GH_ODO_1FA6: 15641
+  response: 7DA07621FA6000262FA
+- expected_values:
+    GH_ODO_1FA6: 15642.4
+  response: 7DA07621FA600026308
+- expected_values:
+    GH_ODO_1FA6: 15643.7
+  response: 7DA07621FA600026315

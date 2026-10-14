@@ -10,5 +10,5 @@ test_cases:
     GH_ODO_V2_V2: 1024
   response: 7DA0762010302000400
 - expected_values:
-    GH_ODO_V2_V2: 7168
-  response: 7DA0762010302001C00
+    GH_ODO_V2_V2: 9718
+  response: 7DA07620103020025F6

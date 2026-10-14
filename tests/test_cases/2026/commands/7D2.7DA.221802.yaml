@@ -1,0 +1,22 @@
+command_id: 7D2.7DA.221802
+test_cases:
+- expected_values:
+    GH_AUXILIARY_BAT: -12500
+    GH_HYBRID_BAT_1_FAN: 0
+  response: 7DA0762180200000000
+- expected_values:
+    GH_AUXILIARY_BAT: -12491.33097
+    GH_HYBRID_BAT_1_FAN: 88
+  response: 7DA076218022D04B001
+- expected_values:
+    GH_AUXILIARY_BAT: -12491.13832
+    GH_HYBRID_BAT_1_FAN: 80.5
+  response: 7DA076218022E04A101
+- expected_values:
+    GH_AUXILIARY_BAT: -12491.13832
+    GH_HYBRID_BAT_1_FAN: 83
+  response: 7DA076218022E04A601
+- expected_values:
+    GH_AUXILIARY_BAT: -12491.13832
+    GH_HYBRID_BAT_1_FAN: 85.5
+  response: 7DA076218022E04AB01

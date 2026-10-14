@@ -13,6 +13,10 @@ test_cases:
     GH_HVBAT_SOC_MIN: 25
   response: 7DA0662106C5B5B32
 - expected_values:
+    GH_HVBAT_SOC_MAX: 53.5
+    GH_HVBAT_SOC_MIN: 39
+  response: 7DA0662106C5F6B4E
+- expected_values:
     GH_HVBAT_SOC_MAX: 75
     GH_HVBAT_SOC_MIN: 51
   response: 7DA0662106C679666
