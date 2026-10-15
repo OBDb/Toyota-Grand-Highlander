@@ -4,23 +4,8 @@ test_cases:
     GH_ENG_ODO: 9718
   response: 70807620103020025F6
 - expected_values:
-    GH_ENG_ODO: 9719
-  response: 70807620103020025F7
+    GH_ENG_ODO: 9727
+  response: 70807620103020025FF
 - expected_values:
-    GH_ENG_ODO: 9720
-  response: 70807620103020025F8
-- expected_values:
-    GH_ENG_ODO: 9721
-  response: 70807620103020025F9
-- expected_values:
-    GH_ENG_ODO: 9722
-  response: 70807620103020025FA
-- expected_values:
-    GH_ENG_ODO: 9723
-  response: 70807620103020025FB
-- expected_values:
-    GH_ENG_ODO: 9724
-  response: 70807620103020025FC
-- expected_values:
-    GH_ENG_ODO: 9725
-  response: 70807620103020025FD
+    GH_ENG_ODO: 9728
+  response: '7080762010302002600'
