@@ -35,3 +35,8 @@ test_cases:
   response: |-
     7DA100A62010206EF00
     7DA21304CBC01000000
+- expected_values:
+    GH_KEY_CYCLE: 1780
+  response: |-
+    7DA100A62010206F400
+    7DA2107E22D01000000
