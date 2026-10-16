@@ -4,6 +4,9 @@ test_cases:
     GH_FRONT_REAR_MOTOR_TQ: -29.55
   response: 7DA0762103920A40C92
 - expected_values:
+    GH_FRONT_REAR_MOTOR_TQ: -29.54
+  response: 7DA0762103920A40C9C
+- expected_values:
     GH_FRONT_REAR_MOTOR_TQ: -29.538
   response: 7DA0762103920A40C9E
 - expected_values:

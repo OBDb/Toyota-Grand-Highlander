@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     GH_ODO_1FA6: 15643.7
   response: 7DA07621FA600026315
+- expected_values:
+    GH_ODO_1FA6: 15696.8
+  response: 7DA07621FA600026528
