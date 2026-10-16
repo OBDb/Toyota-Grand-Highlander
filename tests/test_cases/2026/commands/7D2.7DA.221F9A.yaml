@@ -25,11 +25,11 @@ test_cases:
     7DA1009621F9A0E003F
     7DA2180063F00000000
 - expected_values:
-    GH_HVBAT_C: -9
-    GH_HVBAT_V: 263
+    GH_HVBAT_C: -23.2
+    GH_HVBAT_V: 262
   response: |-
     7DA1009621F9A0E0041
-    7DA21C0FFA600000000
+    7DA2180FF1800000000
 - expected_values:
     GH_HVBAT_C: 0
     GH_HVBAT_V: 264
