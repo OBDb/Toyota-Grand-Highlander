@@ -9,13 +9,13 @@ test_cases:
     GH_HYBRID_BAT_1_FAN: 38.5
   response: 7DA0762180229034D01
 - expected_values:
-    GH_AUXILIARY_BAT: -12483.81781
-    GH_HYBRID_BAT_1_FAN: 124.5
-  response: 7DA076218025406F901
-- expected_values:
     GH_AUXILIARY_BAT: -12482.66194
     GH_HYBRID_BAT_1_FAN: 16
   response: 7DA076218025A082001
+- expected_values:
+    GH_AUXILIARY_BAT: -12481.50607
+    GH_HYBRID_BAT_1_FAN: 126.5
+  response: 7DA076218026007FD01
 - expected_values:
     GH_AUXILIARY_BAT: -12480.35019
     GH_HYBRID_BAT_1_FAN: 33.5
