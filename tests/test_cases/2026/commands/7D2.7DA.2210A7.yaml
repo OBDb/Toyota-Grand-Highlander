@@ -1,6 +1,10 @@
 command_id: 7D2.7DA.2210A7
 test_cases:
 - expected_values:
+    GH_BOOSTING_CONV_T_HI: 25
+    GH_BOOSTING_CONV_T_LO: 24
+  response: 7DA076210A74140464F
+- expected_values:
     GH_BOOSTING_CONV_T_HI: 31
     GH_BOOSTING_CONV_T_LO: 31
   response: 7DA076210A747474D55
