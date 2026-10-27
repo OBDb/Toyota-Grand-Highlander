@@ -10,5 +10,5 @@ test_cases:
     GH_ENG_ODO: 9728
   response: '7080762010302002600'
 - expected_values:
-    GH_ENG_ODO: 10240
-  response: '7080762010302002800'
+    GH_ENG_ODO: 10496
+  response: '7080762010302002900'
