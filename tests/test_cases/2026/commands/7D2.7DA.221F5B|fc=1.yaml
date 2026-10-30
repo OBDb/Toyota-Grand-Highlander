@@ -11,3 +11,18 @@ test_cases:
   response: |-
     7E803410400
     7DA04621F5B95
+- expected_values:
+    GH_SOC: 48.23529
+  response: |-
+    7EA03410559
+    7DA04621F5B7B
+- expected_values:
+    GH_SOC: 56.07843
+  response: |-
+    7EA03410575
+    7DA04621F5B8F
+- expected_values:
+    GH_SOC: 52.54902
+  response: |-
+    7EE03410577
+    7DA04621F5B86
