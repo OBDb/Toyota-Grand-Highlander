@@ -12,15 +12,15 @@ test_cases:
     7E803410400
     7DA04621F5B95
 - expected_values:
-    GH_SOC: 48.23529
+    GH_SOC: 43.52941
   response: |-
-    7EA03410559
-    7DA04621F5B7B
+    7E80341112C
+    7DA04621F5B6F
 - expected_values:
-    GH_SOC: 56.07843
+    GH_SOC: 43.92157
   response: |-
-    7EA03410575
-    7DA04621F5B8F
+    7E803411132
+    7DA04621F5B70
 - expected_values:
     GH_SOC: 52.54902
   response: |-
