@@ -12,3 +12,33 @@ test_cases:
 - expected_values:
     GH_12V_V_V2: 14.47858
   response: 7DA056215EE2E00
+- expected_values:
+    GH_12V_V_V2: 13.84962
+  response: |-
+    7E803411132
+    7DA056215EE2CFA
+- expected_values:
+    GH_12V_V_V2: 14.1641
+  response: |-
+    7E803411132
+    7DA056215EE2D0E
+- expected_values:
+    GH_12V_V_V2: 14.1641
+  response: |-
+    7E803411132
+    7DA056215EE2D30
+- expected_values:
+    GH_12V_V_V2: 14.1641
+  response: |-
+    7EA0341112C
+    7DA056215EE2D10
+- expected_values:
+    GH_12V_V_V2: 12.90618
+  response: |-
+    7EA0341113C
+    7DA056215EE2916
+- expected_values:
+    GH_12V_V_V2: 14.1641
+  response: |-
+    7EE03411132
+    7DA056215EE2D10

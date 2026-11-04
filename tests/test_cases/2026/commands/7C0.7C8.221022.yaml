@@ -15,3 +15,28 @@ test_cases:
 - expected_values:
     GH_FUEL_LEVEL: null
   response: 7C805621022FFFF
+- expected_values:
+    GH_FUEL_LEVEL: 20.92
+  response: |-
+    7E80341112C
+    7C805621022082C
+- expected_values:
+    GH_FUEL_LEVEL: 20.97
+  response: |-
+    7E803411132
+    7C8056210220831
+- expected_values:
+    GH_FUEL_LEVEL: 20.94
+  response: |-
+    7EA03411132
+    7C805621022082E
+- expected_values:
+    GH_FUEL_LEVEL: 20.86
+  response: |-
+    7ED03411133
+    7C8056210220826
+- expected_values:
+    GH_FUEL_LEVEL: 20.97
+  response: |-
+    7EE03411132
+    7C8056210220831

@@ -12,3 +12,23 @@ test_cases:
 - expected_values:
     GH_ENG_ODO: 10752
   response: 7080762010302002A00
+- expected_values:
+    GH_ENG_ODO: 10772
+  response: |-
+    7E80341112D
+    7080762010302002A14
+- expected_values:
+    GH_ENG_ODO: 10772
+  response: |-
+    7EA0341112C
+    7080762010302002A14
+- expected_values:
+    GH_ENG_ODO: 10772
+  response: |-
+    7ED03411133
+    7080762010302002A14
+- expected_values:
+    GH_ENG_ODO: 10772
+  response: |-
+    7EE03411132
+    7080762010302002A14
