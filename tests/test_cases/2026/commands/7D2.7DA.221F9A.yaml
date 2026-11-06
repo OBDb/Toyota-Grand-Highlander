@@ -112,19 +112,26 @@ test_cases:
     7DA1009621F9A0E0042
     7DA21C0013400000000
 - expected_values:
-    GH_HVBAT_C: 3.1
-    GH_HVBAT_V: 295
-  response: |-
-    7EA0441310F9E
-    7DA1009621F9A0E0049
-    7DA21C0001F00000000
-- expected_values:
     GH_HVBAT_C: -22.1
     GH_HVBAT_V: 284
   response: |-
     7ED034104FF
     7DA1009621F9A0E0047
     7DA2100FF2300000000
+- expected_values:
+    GH_HVBAT_C: 4.8
+    GH_HVBAT_V: 293
+  response: |-
+    7ED0441313E76
+    7DA1009621F9A0E0049
+    7DA2140003000000000
+- expected_values:
+    GH_HVBAT_C: -12.5
+    GH_HVBAT_V: 300
+  response: |-
+    7ED0441313E77
+    7DA1009621F9A0E004B
+    7DA2100FF8300000000
 - expected_values:
     GH_HVBAT_C: -11.3
     GH_HVBAT_V: 282

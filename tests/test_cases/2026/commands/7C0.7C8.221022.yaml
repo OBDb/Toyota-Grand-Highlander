@@ -31,6 +31,11 @@ test_cases:
     7EA03411132
     7C805621022082E
 - expected_values:
+    GH_FUEL_LEVEL: 15.11
+  response: |-
+    7EA044131409E
+    7C80562102205E7
+- expected_values:
     GH_FUEL_LEVEL: 20.86
   response: |-
     7ED03411133
