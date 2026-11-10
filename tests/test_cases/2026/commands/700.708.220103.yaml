@@ -10,8 +10,8 @@ test_cases:
     GH_ENG_ODO: 9728
   response: '7080762010302002600'
 - expected_values:
-    GH_ENG_ODO: 10752
-  response: 7080762010302002A00
+    GH_ENG_ODO: 11008
+  response: 7080762010302002B00
 - expected_values:
     GH_ENG_ODO: 10772
   response: |-
