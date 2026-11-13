@@ -1,0 +1,20 @@
+command_id: 700.708.2215EE
+test_cases:
+- expected_values:
+    GH_V_BATSENS: 14.21129
+  response: 708056215EE2D7A
+- expected_values:
+    GH_V_BATSENS: 14.2357
+  response: 708056215EE2D8E
+- expected_values:
+    GH_V_BATSENS: 14.25279
+  response: 708056215EE2D9C
+- expected_values:
+    GH_V_BATSENS: 14.25523
+  response: 708056215EE2D9E
+- expected_values:
+    GH_V_BATSENS: 14.27232
+  response: 708056215EE2DAC
+- expected_values:
+    GH_V_BATSENS: 14.27476
+  response: 708056215EE2DAE

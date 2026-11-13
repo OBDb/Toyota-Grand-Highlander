@@ -1,0 +1,17 @@
+command_id: 700.708.2215F8
+test_cases:
+- expected_values:
+    GH_BAT_T_700: 18.2
+  response: 708056215F80246
+- expected_values:
+    GH_BAT_T_700: 18.3
+  response: 708056215F80247
+- expected_values:
+    GH_BAT_T_700: 18.4
+  response: 708056215F80248
+- expected_values:
+    GH_BAT_T_700: 18.5
+  response: 708056215F80249
+- expected_values:
+    GH_BAT_T_700: 18.6
+  response: 708056215F8024A

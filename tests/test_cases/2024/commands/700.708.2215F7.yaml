@@ -1,0 +1,20 @@
+command_id: 700.708.2215F7
+test_cases:
+- expected_values:
+    GH_BAT_CURRENT_700: 4.25704
+  response: 708056215F78469
+- expected_values:
+    GH_BAT_CURRENT_700: 4.35619
+  response: 708056215F78483
+- expected_values:
+    GH_BAT_CURRENT_700: 4.88623
+  response: 708056215F7850E
+- expected_values:
+    GH_BAT_CURRENT_700: 6.62506
+  response: 708056215F786D6
+- expected_values:
+    GH_BAT_CURRENT_700: 7.55167
+  response: 708056215F787C9
+- expected_values:
+    GH_BAT_CURRENT_700: 9.0884
+  response: 708056215F7895C

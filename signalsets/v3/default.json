@@ -258,7 +258,7 @@
     {"id": "GH_1ST_TRUBOCHARGER_P", "path": "Battery", "fmt": {           "len": 16, "max": 300, "div": 100, "unit": "kilopascal" }, "name": "1st turbocharger outlet pressure, control valve"},
     {"id": "GH_2ND_TRUBOCHARGER_P", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 300, "div": 100, "unit": "kilopascal" }, "name": "2nd turbocharger outlet pressure, control valve"}
   ]},
-{ "hdr": "700", "rax": "708", "dbg": true, "cmd": {"22": "15E5"}, "freq": 1,
+{ "hdr": "700", "rax": "708", "cmd": {"22": "15E5"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
     {"id": "GH_BAT_STAT_FULL_CHG", "path": "Battery", "fmt": { "len": 8, "max": 32512.5, "mul": 255, "div": 2, "unit": "ampereHours" }, "name": "Battery status of full charge"}
   ]},
@@ -266,7 +266,7 @@
   "signals": [
     {"id": "GH_DARK_CURRENT_BAT", "path": "Battery", "fmt": { "len": 16, "max": 65535, "unit": "milliamps" }, "name": "Dark current of battery"}
   ]},
-{ "hdr": "700", "rax": "708", "dbg": true, "cmd": {"22": "15E8"}, "freq": 3600,
+{ "hdr": "700", "rax": "708", "cmd": {"22": "15E8"}, "freq": 3600, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
     {"id": "GH_CHG_INTEGRATED",           "path": "Battery", "fmt": {           "len": 32, "max": 429496729.5,              "div": 10,              "unit": "ampereHours" }, "name": "Charging integrated current of aux. battery"},
     {"id": "GH_DISCHARGING",              "path": "Battery", "fmt": {"bix": 32, "len": 32, "max": 429496729.5,              "div": 10,              "unit": "ampereHours" }, "name": "Discharging integrated current of aux. battery"},
@@ -274,7 +274,7 @@
     {"id": "GH_AUX_BAT_CAP_AFTER_IG_OFF", "path": "Battery", "fmt": {"bix": 72, "len": 8,  "max": 127,         "min": -128,            "add": -128, "unit": "ampereHours" }, "name": "Aux. battery capacity after IG OFF"},
     {"id": "GH_INTEGRATED_ENG_RUN",       "path": "Engine",  "fmt": {"bix": 80, "len": 16, "max": 65535,                                            "unit": "hours"       }, "name": "Integrated engine run time"}
   ]},
-{ "hdr": "700", "rax": "708", "dbg": true, "cmd": {"22": "15EE"}, "freq": 5,
+{ "hdr": "700", "rax": "708", "cmd": {"22": "15EE"}, "freq": 5, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
     {"id": "GH_V_BATSENS", "path": "Battery", "fmt": { "len": 16, "max": 79.9979, "mul": 13333, "div": 10922500, "unit": "volts" }, "name": "Voltage of battery sensor"}
   ]},
@@ -282,15 +282,15 @@
   "signals": [
     {"id": "GH_SLEEP_TIME_BATSENS", "path": "Battery", "fmt": { "len": 8, "max": 255, "unit": "hours" }, "name": "Sleep time of battery sensor"}
   ]},
-{ "hdr": "700", "rax": "708", "dbg": true, "cmd": {"22": "15F6"}, "freq": 3600,
+{ "hdr": "700", "rax": "708", "cmd": {"22": "15F6"}, "freq": 3600, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
     {"id": "GH_INITIAL_ENG_BAT_V_LO", "path": "Battery", "fmt": {"bix": 16, "len": 8, "max": 25.5, "div": 10, "unit": "volts" }, "name": "Initial engine battery voltage lower limit"}
   ]},
-{ "hdr": "700", "rax": "708", "dbg": true, "cmd": {"22": "15F7"}, "freq": 1,
+{ "hdr": "700", "rax": "708", "cmd": {"22": "15F7"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
     {"id": "GH_BAT_CURRENT_700", "path": "Battery", "fmt": { "len": 16, "max": 124.9, "min": -125, "mul": 49, "div": 12850, "add": -125, "unit": "amps" }, "name": "Battery current"}
   ]},
-{ "hdr": "700", "rax": "708", "dbg": true, "cmd": {"22": "15F8"}, "freq": 5,
+{ "hdr": "700", "rax": "708", "cmd": {"22": "15F8"}, "freq": 5, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
     {"id": "GH_BAT_T_700", "path": "Battery", "fmt": { "len": 16, "max": 6513.5, "min": -40, "div": 10, "add": -40, "unit": "celsius" }, "name": "Battery temperature"}
   ]},
@@ -669,18 +669,18 @@
   "signals": [
     {"id": "GH_BRAKE_STROKE", "path": "Control", "fmt": { "len": 8, "max": 255, "unit": "millimeters" }, "name": "Brake pedal stroke"}
   ]},
-{ "hdr": "7B1", "rax": "7B9", "dbg": true, "cmd": {"22": "0103"}, "freq": 30,
+{ "hdr": "7B1", "rax": "7B9", "cmd": {"22": "0103"}, "freq": 30, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
     {"id": "GH_TOT_DIST", "path": "Trips", "fmt": { "len": 32, "max": 150, "unit": "scalar" }, "name": "Total distance"}
   ]},
-{ "hdr": "7B1", "rax": "7B9", "dbg": true, "cmd": {"22": "1003"}, "freq": 0.25,
+{ "hdr": "7B1", "rax": "7B9", "cmd": {"22": "1003"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
     {"id": "GH_FR_WHL_SPD", "path": "Tires", "fmt": {           "len": 8, "max": 150, "mul": 326, "div": 255, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"},
     {"id": "GH_FL_WHL_SPD", "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 150, "mul": 326, "div": 255, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"},
     {"id": "GH_RR_WHL_SPD", "path": "Tires", "fmt": {"bix": 16, "len": 8, "max": 150, "mul": 326, "div": 255, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"},
     {"id": "GH_RL_WHL_SPD", "path": "Tires", "fmt": {"bix": 24, "len": 8, "max": 150, "mul": 326, "div": 255, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
-{ "hdr": "7B1", "rax": "7B9", "dbg": true, "cmd": {"22": "1009"}, "freq": 0.25,
+{ "hdr": "7B1", "rax": "7B9", "cmd": {"22": "1009"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
     {"id": "GH_REAL_ENG_TQ", "path": "Engine", "fmt": {"bix": 32, "len": 16, "max": 150, "min": -20, "div": 32,                 "sign": true, "unit": "newtonMeters" }, "name": "Real engine torque"},
     {"id": "GH_STEER_ANG",   "path": "Engine", "fmt": {"bix": 48, "len": 16, "max": 150, "min": -20, "div": 10, "add": -3276.8,               "unit": "degrees"      }, "name": "Steering angle"}
