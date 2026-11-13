@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     GH_ENG_ODO: 42226
   response: 708076201030200A4F2
+- expected_values:
+    GH_ENG_ODO: 57868
+  response: 708076201030200E20C

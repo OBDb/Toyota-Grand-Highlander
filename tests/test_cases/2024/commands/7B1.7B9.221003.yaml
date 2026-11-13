@@ -1,0 +1,8 @@
+command_id: 7B1.7B9.221003
+test_cases:
+- expected_values:
+    GH_FL_WHL_SPD: 0
+    GH_FR_WHL_SPD: 0
+    GH_RL_WHL_SPD: 0
+    GH_RR_WHL_SPD: 0
+  response: 7B90762100300000000

@@ -1,0 +1,32 @@
+command_id: 7B1.7B9.221009
+test_cases:
+- expected_values:
+    GH_REAL_ENG_TQ: -3
+    GH_STEER_ANG: 1.5
+  response: |-
+    7B9100D621009FF0180
+    7B92100FFA0800F0001
+- expected_values:
+    GH_REAL_ENG_TQ: -2.78125
+    GH_STEER_ANG: 1.5
+  response: |-
+    7B9100D621009FF0180
+    7B92100FFA7800F0001
+- expected_values:
+    GH_REAL_ENG_TQ: -2.71875
+    GH_STEER_ANG: 1.5
+  response: |-
+    7B9100D621009FF0180
+    7B92100FFA9800F0001
+- expected_values:
+    GH_REAL_ENG_TQ: -1.59375
+    GH_STEER_ANG: 1.5
+  response: |-
+    7B9100D621009FF0180
+    7B92100FFCD800F0001
+- expected_values:
+    GH_REAL_ENG_TQ: -1.4375
+    GH_STEER_ANG: 1.5
+  response: |-
+    7B9100D621009FF0180
+    7B92100FFD2800F0001

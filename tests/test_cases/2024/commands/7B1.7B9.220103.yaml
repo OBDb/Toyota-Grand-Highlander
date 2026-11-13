@@ -1,0 +1,5 @@
+command_id: 7B1.7B9.220103
+test_cases:
+- expected_values:
+    GH_TOT_DIST: 150
+  response: 7B9076201030200E20C

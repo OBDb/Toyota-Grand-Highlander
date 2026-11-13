@@ -10,5 +10,5 @@ test_cases:
     GH_ODO_V5: 26367
   response: 70907620103020066FF
 - expected_values:
-    GH_ODO_V5: 41984
-  response: 709076201030200A400
+    GH_ODO_V5: 57868
+  response: 709076201030200E20C
