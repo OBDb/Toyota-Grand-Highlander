@@ -1,11 +1,14 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    GH_ENG_ODO: 42200
+    GH_ENG_ODO_RAW: 42200
+    GH_ENG_ODO_UNIT: MI
   response: 708076201030200A4D8
 - expected_values:
-    GH_ENG_ODO: 42226
+    GH_ENG_ODO_RAW: 42226
+    GH_ENG_ODO_UNIT: MI
   response: 708076201030200A4F2
 - expected_values:
-    GH_ENG_ODO: 57868
+    GH_ENG_ODO_RAW: 57868
+    GH_ENG_ODO_UNIT: MI
   response: 708076201030200E20C
