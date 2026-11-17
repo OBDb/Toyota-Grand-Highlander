@@ -1,17 +1,22 @@
 command_id: 7D2.7DA.220103|fc=1
 test_cases:
 - expected_values:
-    GH_ODO_V2_V2: 918
+    GH_ODO_V2_V2_RAW: 918
+    GH_ODO_V2_V2_UNIT: MI
   response: 7DA0762010302000396
 - expected_values:
-    GH_ODO_V2_V2: 1023
+    GH_ODO_V2_V2_RAW: 1023
+    GH_ODO_V2_V2_UNIT: MI
   response: 7DA07620103020003FF
 - expected_values:
-    GH_ODO_V2_V2: 1024
+    GH_ODO_V2_V2_RAW: 1024
+    GH_ODO_V2_V2_UNIT: MI
   response: 7DA0762010302000400
 - expected_values:
-    GH_ODO_V2_V2: 9718
+    GH_ODO_V2_V2_RAW: 9718
+    GH_ODO_V2_V2_UNIT: MI
   response: 7DA07620103020025F6
 - expected_values:
-    GH_ODO_V2_V2: 9753
+    GH_ODO_V2_V2_RAW: 9753
+    GH_ODO_V2_V2_UNIT: MI
   response: 7DA0762010302002619
